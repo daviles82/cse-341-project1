@@ -40,3 +40,6 @@ content-Type: application/json
 
 ### Delete contact
 DELETE http://localhost:3000/contacts/65ebdf7e3be302a89a073190
+
+### Swagger site
+GET https://project1-56pi.onrender.com/api-docs/
