@@ -14,3 +14,16 @@ GET https://project1-56pi.onrender.com/contacts
 ### Site displays individual contact
 GET https://project1-56pi.onrender.com/contacts/65e246ff1f4efa5f33bbc797
 
+# ###
+# POST http://localhost:3000/contacts
+# application/json
+# {
+#     "url": <string>,
+#     "headers": <document>,
+#     "body": <object> or <string>,
+#     "encodeBodyAsJSON": <boolean>,
+#     "form": <document>,
+#     "cookies": <string>,
+#     "authUrl": <string>,
+#     "followRedirects": <boolean>
+# }
